@@ -49,7 +49,7 @@ public abstract class AbstractPlayer {
 	}
 	
 	
-	public void setIsHumanPlayer() {
+	public void setHumanPlayer() {
 		humanPlayer = true;
 	}
 	
